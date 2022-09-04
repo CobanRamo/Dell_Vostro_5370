@@ -1,5 +1,5 @@
 # Dell Vostro 5370 KabyLake
-(Github repository is under construction, Efi is funtionable...)<br>
+(Github repository is under construction, Efi is fully funtionable...)<br>
 Dell Vostro 5370 with OpenCore<br>
 Part Number : xxxxxxxx
 
@@ -38,7 +38,7 @@ RAM  | 8GB SO-DIMM DDR4-2666 + 8GB SO-DIMM DDR4-2666 (Total 16GB)
 Storage  | 500GB SSD M.2 SATA
 Graphics  | Integrated Intel® UHD-Grafik 620 (KabyLake-R)
 Monitor  | 13.3" FHD (1920x1080) IPS 250 nits Anti-glare
-Sound Card  | reserved (ALC 257 layout-ID 11 (0B000000))
+Sound Card  | Sunrise Point-LP HD Audio (ALC 295 layout-ID 13 (0D000000))
 Card reader  | Working
 Network Card  | BCM94360NG
 TouchPad  | Fully Fuctional
