@@ -1,4 +1,4 @@
-# Dell Vostro 5370 KabyLake
+# Dell Vostro 5370 KabyLake (Github repository is under construction, Efi is funtionable...)
 Dell Vostro 5370 with OpenCore<br>
 Part Number : xxxxxxxx
 
