@@ -32,10 +32,10 @@ The specs of the machine are:
 
 Specifications  | Details
 ------------- | -------------
-Processor  | Intel Core i5-8250u (4C / 8T, 1.6 / 3.4GHz, 6MB)
+Processor  | Intel Core i5-8250u KabyLake-R (4C / 8T, 1.6 / 3.4GHz, 6MB)
 RAM  | 8GB SO-DIMM DDR4-2666 + 8GB SO-DIMM DDR4-2666 (Total 16GB)
 Storage  | 500GB SSD M.2 SATA
-Graphics  | Integrated Intel® UHD-Grafik 620
+Graphics  | Integrated Intel® UHD-Grafik 620 (KabyLake-R)
 Monitor  | 13.3" FHD (1920x1080) IPS 250 nits Anti-glare
 Sound Card  | reserved (ALC 257 layout-ID 11 (0B000000))
 Card reader  | Working
